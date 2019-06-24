@@ -1,0 +1,30 @@
+body{
+    background-color: blue
+}
+h2{
+    color: white;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-size: 20px;
+}
+h2{
+    color: white:
+    text-align: center;
+}
+p {
+    color: AliceBlue;
+    line-height: 1.3em;
+    text-align: left;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .image {
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+  }
